@@ -1,0 +1,5 @@
+{
+    "scheduledRemoval": false,
+    "schedule": "00 00 00 * * 0-6",
+    "daysUntilRemoval": 7
+}
